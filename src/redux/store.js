@@ -1,5 +1,12 @@
+/* eslint-disable import/no-named-as-default */
 /* eslint-disable import/no-unresolved */
-import { createStore } from 'redux';
-import rootReducer from './reducers';
+import { configureStore } from '@reduxjs/toolkit';
+import postReducer from './reducers/postsReducer';
+import userReducer from './reducers/userReducer';
 
-export default createStore(rootReducer);
+export default configureStore({
+  reducer: {
+    posts: postReducer,
+    user: userReducer,
+  },
+});
