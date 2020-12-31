@@ -4,9 +4,11 @@
 #### 一個有分頁功能、簡易會員系統、可以對自己的文章做新增編輯刪除的部落格
 <br/>
 <br/>
-<br/>
 
-![](https://i.imgur.com/RIq6f9v.png)
+---
+![](https://i.imgur.com/M8fwweg.png)
+
+---
 
 ### DEMO
 
