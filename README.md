@@ -1,6 +1,10 @@
 # BLOG_IN_REACT
+<br/>
 
-一個有分頁功能、簡易會員系統、可以對自己的文章做新增編輯刪除的部落格
+#### 一個有分頁功能、簡易會員系統、可以對自己的文章做新增編輯刪除的部落格
+<br/>
+<br/>
+<br/>
 
 ![](https://i.imgur.com/RIq6f9v.png)
 
@@ -17,4 +21,3 @@
 5. Redux DevTool - 爲 Redux 設計的 chrom 插件，可以觀察到具體改變 state 的 action
 6. fetch - 與後端 API 資料交換
 7. LocalStorage - 儲存身份認證的 JWT
-
