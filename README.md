@@ -1,5 +1,8 @@
 # BLOG_IN_REACT
-<br/>
+
+### DEMO
+
+[DEMO](https://oceankj.github.io/react_redux_blog/#/)
 
 #### 一個有分頁功能、簡易會員系統、可以對自己的文章做新增編輯刪除的部落格
 <br/>
@@ -9,10 +12,6 @@
 ![](https://i.imgur.com/M8fwweg.png)
 
 ---
-
-### DEMO
-
-[DEMO](https://oceankj.github.io/react_redux_blog/#/)
 
 ### 使用技術
 
